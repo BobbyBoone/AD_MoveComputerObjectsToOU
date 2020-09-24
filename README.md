@@ -6,3 +6,4 @@
 # This is helpful as the default hostname in AWS is computer generated and thus meaningless
 # enhancement would be to create a similar program that would traverse all OU's and perform the same task
 # such that any terminatea EC2 instanced would be removed from the active OU's
+# Until that is done, just move objects back to the computer OU, and this program will 'reprocess them'              
